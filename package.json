@@ -1,12 +1,13 @@
 {
   "name": "hapi-reveal",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "hapi plugin for reveal.js presentations",
   "main": "index.js",
   "engines": {
      "node": ">= 0.10.32"
   },
   "dependencies": {
+    "handlebars": "3.x.x",
     "hapi": "8.x.x",
     "reveal.js": "2.x.x"
   },
