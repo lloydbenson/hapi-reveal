@@ -10,7 +10,7 @@
   "dependencies": {
     "handlebars": "3.x.x",
     "hapi": "8.x.x",
-    "reveal.js": "2.x.x"
+    "reveal.js": "3.x.x"
   },
   "author": "Lloyd Benson"
 }
